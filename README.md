@@ -13,11 +13,17 @@
 
   ## GitHub Statistics
 
-  ![sunjh96's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunjh96&show_icons=true&theme=dracula&count_private=true)  
+  ![sunjh96's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunjh96&show_icons=true&theme=dracula&count_private=true) 　 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunjh96&layout=compact)](https://github.com/sunjh96/github-readme-stats)
+
 
   ## Top Repositories
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunjh96&repo=sunjh96.github.io&show_owner=false)](https://sunjh96.github.io/)　 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunjh96&repo=CodeUp-Solutions&show_owner=false)](https://github.com/sunjh96/CodeUp-Solutions)
+
+  ## BOJ Rank
+
+  [![Solved.ac
+  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sunjh96)](https://solved.ac/sunjh96)
 
   </div>
 </div>
