@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ### Top Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunjh96&repo=sunjh96.github.io&show_owner=true)](https://sunjh96.github.io/)　 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunjh96&repo=CodeUp-Solutions&show_owner=true)](https://github.com/sunjh96/CodeUp-Solutions)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunjh96&repo=sunjh96.github.io&show_owner=false)](https://sunjh96.github.io/)　 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunjh96&repo=CodeUp-Solutions&show_owner=false)](https://github.com/sunjh96/CodeUp-Solutions)
