@@ -23,13 +23,7 @@
 
   :chart_with_upwards_trend: **Investment**
 
-
-  ## GitHub Statistics
-
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunjh96&count_bg=%233DC7C8&title_bg=%23555555&icon=pinboard.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-  ![sunjh96's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunjh96&show_icons=true&theme=dracula&count_private=true&width=60%)　
-    
+  <br/>
 
   ## Top Repositories
 
@@ -39,6 +33,14 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunjh96&repo=CodeUp-Solutions&show_owner=false)](https://github.com/sunjh96/CodeUp-Solutions)
 
   </div>
+  
+  <br/>
+  
+  ## GitHub Statistics
+
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunjh96&count_bg=%233DC7C8&title_bg=%23555555&icon=pinboard.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+  ![sunjh96's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunjh96&show_icons=true&theme=dracula&count_private=true&width=60%)　    
   
   <!--
   ## BOJ Rank
