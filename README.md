@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunjh96&repo=PORTFOLIO
 )](https://jjo-portfolio.netlify.app/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunjh96&layout=compact)](https://github.com/sunjh96/github-readme-stats){. text-align='center'}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunjh96&layout=compact)](https://github.com/sunjh96/github-readme-stats){: text-align='center'}
