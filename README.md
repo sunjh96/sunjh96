@@ -17,6 +17,3 @@ Here are some ideas to get you started:
 
 ![sunjh96's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunjh96&show_icons=true&theme=dracula)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunjh96&repo=sunjh96.github.io)](https://sunjh96.github.io/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunjh96&layout=compact)](https://github.com/sunjh96/github-readme-stats)
