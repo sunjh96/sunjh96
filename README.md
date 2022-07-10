@@ -15,7 +15,7 @@
 
   <div display=flex>
   
-  ![sunjh96's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunjh96&show_icons=true&theme=dracula&count_private=true)　
+  ![sunjh96's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunjh96&show_icons=true&theme=dracula&count_private=true&width=60%)　
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunjh96&layout=compact)](https://github.com/sunjh96/github-readme-stats)
     
   </div>
