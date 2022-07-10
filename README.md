@@ -29,10 +29,12 @@
 
   </div>
   
+  <!--
   ## BOJ Rank
 
   [![Solved.ac
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sunjh96)](https://solved.ac/sunjh96)
+-- >
 
   </div>
 </div>
