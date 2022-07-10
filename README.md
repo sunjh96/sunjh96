@@ -13,13 +13,22 @@
 
   ## GitHub Statistics
 
-  ![sunjh96's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunjh96&show_icons=true&theme=dracula&count_private=true) 　 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunjh96&layout=compact)](https://github.com/sunjh96/github-readme-stats)
-
+  <div display=flex>
+  
+  ![sunjh96's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunjh96&show_icons=true&theme=dracula&count_private=true)　
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunjh96&layout=compact)](https://github.com/sunjh96/github-readme-stats)
+    
+  </div>
 
   ## Top Repositories
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunjh96&repo=sunjh96.github.io&show_owner=false)](https://sunjh96.github.io/)　 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunjh96&repo=CodeUp-Solutions&show_owner=false)](https://github.com/sunjh96/CodeUp-Solutions)
+  <div display=flex>
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunjh96&repo=sunjh96.github.io&show_owner=false)](https://sunjh96.github.io/)　
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunjh96&repo=CodeUp-Solutions&show_owner=false)](https://github.com/sunjh96/CodeUp-Solutions)
 
+  </div>
+  
   ## BOJ Rank
 
   [![Solved.ac
