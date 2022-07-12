@@ -30,7 +30,7 @@
   <div display=flex>
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunjh96&repo=sunjh96.github.io&show_owner=false)](https://sunjh96.github.io/)　
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunjh96&repo=CodeUp-Solutions&show_owner=false)](https://github.com/sunjh96/CodeUp-Solutions)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunjh96&repo=CodeUp-Solutions&show_owner=false)](https://sunjh96.github.io/algorithm/algorithm-1/)
 
   </div>
   
