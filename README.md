@@ -29,8 +29,11 @@
 
   <div display=flex>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunjh96&repo=sunjh96.github.io&show_owner=false)](https://devjeong.com/)　
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunjh96&repo=CodeUp-Solutions&show_owner=false)](https://devjeong.com/algorithm/algorithm-1/)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunjh96&repo=sunjh96.github.io&show_owner=true)](https://devjeong.com/)　
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunjh96&repo=PORTFOLIO&show_owner=true)](https://jjo-portfolio.netlify.app/)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunjh96&repo=CodeUp-Solutions&show_owner=true)](https://devjeong.com/algorithm/algorithm-1/)　
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunjh96&repo=EatWithMe&show_owner=true)](https://github.com/sunjh96/EatWithMe)
+
 
   </div>
   
